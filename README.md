@@ -33,3 +33,26 @@ Para executar esta aplicação no seu próprio computador, siga os passos abaixo
 ```bash
 git clone [https://github.com/Aly-Filho/JuniorAI_avaliation_breastcancer.git](https://github.com/Aly-Filho/JuniorAI_avaliation_breastcancer.git)
 cd JuniorAI_avaliation_breastcancer
+
+# Crie o ambiente virtual na pasta do projeto
+python -m venv venv
+
+# Ative-o (este comando é para o Command Prompt do Windows)
+.\venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python app.py
+
+
+Visite http://127.0.0.1:5000 no seu navegador para usar a plataforma.
+
+
+🛠️ Tecnologias Utilizadas
+Back-end: Python, Flask
+
+Machine Learning: PyTorch, MedMNIST
+
+Front-end: HTML, CSS
+
+Bibliotecas de Suporte: NumPy, Pillow
