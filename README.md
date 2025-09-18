@@ -4,7 +4,7 @@
 
 Este projeto é uma solução full-stack desenvolvida para um desafio de programação de IA, com o objetivo de criar uma ferramenta de apoio ao diagnóstico para o Sistema Nacional de Saúde Português. A aplicação é uma plataforma web que permite a um profissional de saúde fazer o upload de uma imagem histopatológica de tecido mamário e receber uma classificação imediata (Benigna ou Maligna) gerada por um modelo de Inteligência Artificial.
 
-A solução foi construída de ponta a ponta em menos de 2 horas, cobrindo o ciclo completo desde o treino do modelo de Deep Learning até à sua implementação numa interface web funcional.
+A solução foi construída de ponta a ponta, cobrindo o ciclo completo desde o treino do modelo de Deep Learning até à sua implementação numa interface web funcional.
 
 ---
 
