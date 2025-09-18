@@ -41,18 +41,18 @@ python -m venv venv
 # Ative-o (este comando é para o Command Prompt do Windows)
 .\venv\Scripts\activate
 
-**Instalar as Dependências**
+# **Instalar as Dependências**
 Com o ambiente ativo, instale todas as bibliotecas necessárias com um único comando:
 pip install -r requirements.txt
 
-**Executar a Aplicação**
+# **Executar a Aplicação**
 python app.py
 
-**Abrir no Navegador**
+# **Abrir no Navegador**
 Visite http://127.0.0.1:5000 no seu navegador para usar a plataforma.
 
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 Back-end: Python, Flask
 
 Machine Learning: PyTorch, MedMNIST
