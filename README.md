@@ -1,18 +1,18 @@
-# 🩺 Plataforma de Classificação de Tecido Mamário
+# 🩺 Plataforma de Classificação de Cancro da Mama
 
 ## 📝 Descrição do Projeto
 
-Este projeto é uma solução completa (full-stack) para um desafio de programação de IA, desenhado para auxiliar o Sistema Nacional de Saúde Português. A aplicação consiste numa plataforma web onde um profissional de saúde pode fazer o upload de uma imagem histopatológica de tecido mamário e receber um diagnóstico imediato, classificando-a como **Benigna** ou **Maligna**.
+Este projeto é uma solução full-stack desenvolvida para um desafio de programação de IA, com o objetivo de criar uma ferramenta de apoio ao diagnóstico para o Sistema Nacional de Saúde Português. A aplicação é uma plataforma web que permite a um profissional de saúde fazer o upload de uma imagem histopatológica de tecido mamário e receber uma classificação imediata (Benigna ou Maligna) gerada por um modelo de Inteligência Artificial.
 
-A solução foi construída de ponta a ponta, desde o treino do modelo de Deep Learning até à sua integração numa interface web funcional e intuitiva.
+A solução foi construída de ponta a ponta em menos de 2 horas, cobrindo o ciclo completo desde o treino do modelo de Deep Learning até à sua implementação numa interface web funcional.
 
 ---
 
 ## ✨ Funcionalidades
 
--   **Upload de Imagem:** Interface simples e direta para selecionar e enviar uma imagem a partir do computador.
--   **Classificação por IA:** Utilização de uma Rede Neuronal Convolucional (CNN) treinada em PyTorch para analisar a imagem.
--   **Resultado Imediato:** O diagnóstico do modelo é exibido instantaneamente na tela após a análise.
+-   **Upload de Imagem:** Interface web simples para selecionar e enviar uma imagem.
+-   **Análise por IA:** Utilização de uma Rede Neuronal Convolucional (CNN) para classificar a imagem em tempo real.
+-   **Exibição de Diagnóstico:** O resultado da análise é apresentado de forma clara e imediata ao utilizador.
 
 ---
 
@@ -31,5 +31,5 @@ Para executar esta aplicação no seu próprio computador, siga os passos abaixo
 
 **1. Clonar o Repositório**
 ```bash
-git clone [https://github.com/Aly-Filho/JuniorAI-avaliation.git](https://github.com/Aly-Filho/JuniorAI-avaliation.git)
-cd JuniorAI-avaliation
+git clone [https://github.com/Aly-Filho/JuniorAI_avaliation_breastcancer.git](https://github.com/Aly-Filho/JuniorAI_avaliation_breastcancer.git)
+cd JuniorAI_avaliation_breastcancer
